@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bibliotheque_univ
+  - bat_2-3
+  - bat_5
+  - bat_5bis
+  - bat_11
+  - crestic
+  - eisine
+  - bat_7
+  - bat_6
+  - bat_24
+  - cief_maison_des_langues
+  - bat_13
+  - bat_8
+  - bat_25
+  - bat_20
+  - gymnase
+  - suaps
+  - bat_17
+  - cnam
+  - jardin
+  - bat_18
+  - amphi
+  - resto_u
+  - moulin
+  - secretariat
+  - bat_9
+  - cam_fps
+  - camera_spectate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ground
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
