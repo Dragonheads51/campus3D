@@ -23,15 +23,20 @@ public class opencloseMenu : MonoBehaviour
 
         playerController = player.GetComponent<PlayerMovement>();
         mouseLook = cam.GetComponent<MouseLook>();
+
+
+        playerController.isEnable =false ;
+        mouseLook.isEnable = false;
+
+
+
        }
 
 
 
     void Update(){
 
-
-        //playerController.isEnable =false ;
-        //mouseLook.isEnable = true;
+        //Debug.Log(mouseLook.isEnable);
 
 
         if (Input.GetKeyDown(KeyCode.C)){
@@ -81,6 +86,7 @@ public class opencloseMenu : MonoBehaviour
 
     IEnumerator tp(){
         Debug.Log("Téléportation first");
+
 
         playerController.isEnable = false;
         mouseLook.isEnable = false;

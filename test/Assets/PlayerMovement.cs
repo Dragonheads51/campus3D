@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
     bool isGrounded;
     public bool fly;
 
-    public bool isEnable;
+    public bool isEnable = true;
 
 
 
