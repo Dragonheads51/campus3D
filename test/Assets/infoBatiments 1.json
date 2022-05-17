@@ -1,0 +1,32 @@
+{
+    "batiments":
+    [
+        {
+            "numBat": "18",
+            "nomBat": "recherche",
+            "listeSalle": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "numBat": "18",
+            "nomBat": "recherche",
+            "listeSalle": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "numBat": "18",
+            "nomBat": "recherche",
+            "listeSalle": [
+                "1",
+                "2",
+                "3"
+            ]
+        }
+    ]
+}

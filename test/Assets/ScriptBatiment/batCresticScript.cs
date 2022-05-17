@@ -33,7 +33,7 @@ public class batCresticScript : MonoBehaviour
         transform.rotation = Quaternion.LookRotation(transform.position - target.position);
 
         float distance = Vector3.Distance(texteTMP.transform.position, target.transform.position);
-        if (distance >= 500 ){
+        if (distance >= 200 ){
             texteTMP.gameObject.GetComponent<Renderer>().enabled = false;
             plane.GetComponent<Renderer>().enabled = false;
         }

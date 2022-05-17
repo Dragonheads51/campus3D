@@ -13,6 +13,7 @@ public class MouseLook : MonoBehaviour
 
 
     void Start(){
+        mouseSensitivity = 40f;
         isEnable = true;
         Cursor.lockState = CursorLockMode.Locked;
 
