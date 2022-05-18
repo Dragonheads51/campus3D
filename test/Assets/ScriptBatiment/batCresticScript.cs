@@ -14,20 +14,6 @@ public class batCresticScript : MonoBehaviour
     public Transform target;
 
 
-    void Start()
-    {
-
-        string path = "Assets/ScriptBatiment/texte/test";
-
-        StreamReader reader = new StreamReader(path);
-
-        texteTMP.text = reader.ReadToEnd();
-
-        reader.Close();
-
-    }
-
-
     void Update()
     {
         transform.rotation = Quaternion.LookRotation(transform.position - target.position);

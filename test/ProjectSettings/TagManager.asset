@@ -4,34 +4,33 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - bibliotheque_univ
-  - bat_2-3
-  - bat_5
-  - bat_5bis
-  - bat_11
-  - crestic
-  - eisine
-  - bat_7
-  - bat_6
-  - bat_24
-  - cief_maison_des_langues
-  - bat_13
-  - bat_8
-  - bat_25
-  - bat_20
-  - gymnase
-  - suaps
-  - bat_17
-  - cnam
-  - jardin
-  - bat_18
-  - amphi
-  - resto_u
-  - moulin
-  - secretariat
-  - bat_9
-  - cam_fps
-  - camera_spectate
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 22
+  - 23
+  - 24
+  - 25
+  - 26
   layers:
   - Default
   - TransparentFX
