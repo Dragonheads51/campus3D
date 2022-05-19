@@ -3,151 +3,139 @@
     [
         {
             "id":0,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de descr\niption assez longue Lorem Ipsum.\n Lorem Ipsum. Lorem Ipsum. Lorem I\npsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
-            "listeSalle":[
-                "salle1","salle2"
-            ]
+            "numBat":"14",
+            "nomBat":"Bibliothèque Universitaire",
+            "desc":"La BU propose des milliers de documents, livres, DVD à consulter sur place ou à emporter. Elle acceuille, conseille, forme et donne accès aux nouvelles tehnologies de l'information.\nLa bibliothèque héberge également le Service d'Accompagnement des Etudiants (SAE) : Mission orientation.",
+            "listeSalle":[]
         },
         {
             "id":1,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"2 - 3",
+            "nomBat":"",
+            "desc":"Ce bâtiments abrite des salle de TD, de TP d'informatique, et des salles dédiées à l'apprentissage des langues.\n Le bâtiment héberge aussi le secrétariat du département du MMi, les laboratoires de recherche du CNRS et du supercalculateur ROMEO.",
             "listeSalle":[
-                "salle1","salle2"
+                "Salle1","salle2"
             ]
         },
         {
             "id":2,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
-            "listeSalle":[
-                "salle1","salle2"
-            ]
+            "numBat":"1",
+            "nomBat":"Administration et scolarité",
+            "desc":"Ce bâtiment abrite les bureaux de l'Administration (Directeur, Doyen...) ainsi que le service de scolarité.\nLe service vous acceuille du lundi au jeudi de 08h30 à 11h45 et de 13h30 à 16h00 et le vendredi de 08h30 à 11h45.\nIl assure les actes de gestion administrative (Inscription, dossier scolaire, absence...)",
+            "listeSalle":[]
         },
         {
             "id":3,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"5",
+            "nomBat":"",
+            "desc":"Ce bâtiment abrite des salles de TD et de TP de Physique.\nVous y trouverez également les bureaux et permanences des différentes associations étudiantes.",
             "listeSalle":[
-                "salle1","salle2"
+                "Salle 501","salle 551"
             ]
         },
         {
             "id":4,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"5 Bis",
+            "nomBat":"",
+            "desc":"Ce bâtiment abrite exclusivement des salles de cours et de TD.",
             "listeSalle":[
-                "salle1","salle2"
+                "Salle 511","salle 516"
             ]
         },
         {
             "id":5,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"11",
+            "nomBat":"",
+            "desc":"Ce bâtiment abrite les salles de travaux pratiques de Géosciences",
             "listeSalle":[
-                "salle1","salle2"
+                "Salle1","salle2"
             ]
         },
         {
             "id":6,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"12",
+            "nomBat":"CRESTIC",
+            "desc":"Ce bâtiment abrite la salle de TP CELLFLEX, les laboratoires de recherche de CRESTIC ainsi que le département d'Electronique, Electrotechnique, Automatique (EEA).",
             "listeSalle":[
-                "salle1","salle2"
+                "Salle1","salle2"
             ]
         },
         {
             "id":7,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"10",
+            "nomBat":"EiSINe",
+            "desc":"Ce bâtiment est dédié aux enseignements d'Electronique, Electrotechnique, Automatique 5EEA).",
             "listeSalle":[
-                "salle1","salle2"
+                "Salle1","salle2"
             ]
         },
         {
             "id":8,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
-            "listeSalle":[
-                "salle1","salle2"
-            ]
+            "numBat":"",
+            "nomBat":"",
+            "desc":"",
+            "listeSalle":[]
         },
         {
             "id":9,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
-            "listeSalle":[
-                "salle1","salle2"
-            ]
+            "numBat":"",
+            "nomBat":"",
+            "desc":"",
+            "listeSalle":[]
         },
         {
             "id":10,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
-            "listeSalle":[
-                "salle1","salle2"
-            ]
+            "numBat":"",
+            "nomBat":"",
+            "desc":"",
+            "listeSalle":[]
         },
         {
             "id":11,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
-            "listeSalle":[
-                "salle1","salle2"
-            ]
+            "numBat":"",
+            "nomBat":"",
+            "desc":"",
+            "listeSalle":[]
         },
         {
             "id":12,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"5t",
+            "nomBat":"Maison des Langues",
+            "desc":"La maison des langues a pour vocation de développer et de favoriser l'apprentissage des langues.\nOuvert de 08h00 à 18h00 du lundi au vendredi.\nVous y retrouverez des salles dédiées à l'apprentissage des langues ainsi que des salles de E-learning. \nLe secrétariat du Département des Langues (DL) s'y trouve aussi.",
             "listeSalle":[
                 "salle1","salle2"
             ]
         },
         {
             "id":13,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"13",
+            "nomBat":"",
+            "desc":"Ce bâtiment abrite les salles de TP de biologie cellulaire et physiologie, biologie animale et générique.",
             "listeSalle":[
                 "salle1","salle2"
             ]
         },
         {
             "id":14,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"9",
+            "nomBat":"",
+            "desc":"Ce bâtiment abrite les salles de TP de Biochimie, Biologie Végétale, Culture cellulaire, Biologie moléculaire, Oenologie.\nIl heberge également une salle d'enseignement du Dîplome National d'Oenologie (DNO). ",
             "listeSalle":[
                 "salle1","salle2"
             ]
         },
         {
             "id":15,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"8",
+            "nomBat":"",
+            "desc":"Ce bâtiment abrite des salles infoirmatiques et une salle de TD. \nVous y trouverez également le Service de Medecine Préventive Universitaire (SUMPPS) et une assistante sociale. \nCe service est ouvert de 08h30 à 17h30 (17h00 le vendredi).",
             "listeSalle":[
                 "salle1","salle2"
             ]
         },
         {
             "id":16,
-            "numBat":0,
+            "numBat":"0",
             "nomBat":"bat0",
             "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
             "listeSalle":[
@@ -156,93 +144,88 @@
         },
         {
             "id":17,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
-            "listeSalle":[
-                "salle1","salle2"
-            ]
+            "numBat":"20",
+            "nomBat":"",
+            "desc":"Ces bâtiments sont dédiées aux enseignements de la Formation dIngénieurs en Automatique et Informatique Industrielle (A2I).",
+            "listeSalle":[]
         },
         {
             "id":18,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
-            "listeSalle":[
-                "salle1","salle2"
-            ]
+            "numBat":"19",
+            "nomBat":"Gymnase ",
+            "desc":"Le Gymnase propose des activités sportives dans le cadre Universitaire des Activités Physiques et Sportives (SUAPS).",
+            "listeSalle":[]
         },
         {
             "id":19,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"19b",
+            "nomBat":"SUAPS",
+            "desc":"Ce bâtiment abrite les bureaux du SUAPS.\nIl héberge également une partie du de la formation d'Ingénieurs en Automatique et Informatique Industrielle (A2I).",
             "listeSalle":[
                 "salle1","salle2"
             ]
         },
         {
             "id":20,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"17",
+            "nomBat":"",
+            "desc":"Ce bâtiment abrite des salles de cours et de TD, ainsi que des salles de TP de Chimie et Biologie. Il abrite également le bureau de la Fédération Francaise de Sport Universitaire (FFSU).\nLes salle commencant par 17XX sont donc situé dans ce batiment. Le chiffre des dizaine indique l'étage et celui des unités sur le numéro de la salle.",
             "listeSalle":[
-                "salle1","salle2"
+                "Salle 1700","salle 1723"
             ]
         },
         {
             "id":21,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
-            "listeSalle":[
-                "salle1","salle2"
-            ]
+            "numBat":"",
+            "nomBat":"",
+            "desc":"",
+            "listeSalle":[]
         },
         {
             "id":22,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
-            "listeSalle":[
-                "salle1","salle2"
-            ]
+            "numBat":"",
+            "nomBat":"",
+            "desc":"",
+            "listeSalle":[]
         },
         {
             "id":23,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
-            "listeSalle":[
-                "salle1","salle2"
-            ]
+            "numBat":"23",
+            "nomBat":"EUROPOL'AGRO",
+            "desc":"Ce bâtiment héberge les laboratoires de recherches en Biologie (MEDyC, SEBIO, RIBP, FARE) et en Chimie (ICMR).\nIl abrite également les secrétariats des départments de Biologie-Biochimie (DBB, Aile Gauche) et de Chimie (DC, Aile Droite).",
+            "listeSalle":[]
         },
         {
             "id":24,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"4",
+            "nomBat":"La Rotonde",
+            "desc":"Ce bâtiment abrite les amphithéatres du campus.",
             "listeSalle":[
-                "salle1","salle2"
+                "Amphie 1","Amphie 5"
             ]
         },
         {
             "id":25,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
+            "numBat":"",
+            "nomBat":"Restaurant Universtiraire (Resto U).",
+            "desc":"Le restaurant universitaire du CROUS vous propose des repas complets et un ensemble de formules de plats diversifiés à tarifs étudiant. À consommer sur place ou à emporter.",
+            "listeSalle":[]
+        },
+        {
+            "id":26,
+            "numBat":"",
+            "nomBat":"Moulin de la House",
+            "desc":"Le Moulin de la House est une structure réalisé par Jacques-Victor André et a été construite en 1997. ",
             "listeSalle":[
                 "salle1","salle2"
             ]
         },
         {
-            "id":26,
-            "numBat":0,
-            "nomBat":"bat0",
-            "desc":"Test de description assez longue Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. Lorem Ipsum. ",
-            "listeSalle":[
-                "salle1","salle2"
-            ]
+            "id":27,
+            "numBat":"",
+            "nomBat":"Kafet",
+            "desc":"La cafétaria du CROUS vous propose des boissons chaudes ou froides, des sandwichs variés, des salades, des pizzas et des dessert à des tarifs étudiants. ",
+            "listeSalle":[]
         }
     ]
 }

@@ -55,39 +55,41 @@ public class infoBatiment : MonoBehaviour
 
 
             
-            if (lbats.lBat[i].numBat != -1 && !lbats.lBat[i].nomBat.Equals("")){
+            if (!lbats.lBat[i].numBat.Equals("") && !lbats.lBat[i].nomBat.Equals("")){
                 finalText += "<style=champ>" + lbats.lBat[i].nomBat;
-                finalText += "</style><style=parenthese> (" + lbats.lBat[i].numBat.ToString() + "</style>\n\n";
-
-
-                
-
-
-
-
+                finalText += "</style><style=parenthese> (Bâtiment numéro : " + lbats.lBat[i].numBat + " )</style>\n\n";
+            }
+            else if (!lbats.lBat[i].numBat.Equals("") && lbats.lBat[i].nomBat.Equals("")){
+                finalText += "<style=champ>Bâtiment numéro : " + lbats.lBat[i].numBat + "</style>\n\n";
+            }
+            else if (lbats.lBat[i].numBat.Equals("") && !lbats.lBat[i].nomBat.Equals("")){
+                finalText += "<style=champ>" + lbats.lBat[i].nomBat + "</style>\n\n";
             }
 
 
+            finalText += "<style=desc>" + lbats.lBat[i].desc + "</style>\n\n";
 
 
-            if (lbats.lBat[i].numBat != -1){
-                finalText += "Numéro de bâtiments: " + lbats.lBat[i].numBat.ToString();
+
+            if(lbats.lBat[i].listeSalle.Count !=0){
+                finalText += "<style=salle>" + lbats.lBat[i].listeSalle[0] + " à " + lbats.lBat[i].listeSalle[0] + "</style>";
             }
 
-            if (!lbats.lBat[i].nomBat.Equals("")){
-            }
 
-            finalText += "</style>";
-            finalText += lbats.lBat[i].desc;
-
-
-            // IF ID = CELUI DE L'AMPHIE TRAIER LE CAS SINON {  vvv  }
 
             // On trouve le gameobject avec le tag id i 
             GameObject batId = GameObject.FindGameObjectWithTag(lbats.lBat[i].id.ToString());
             TMP_Text text = batId.GetComponentInChildren<TMP_Text>();
             text.text = finalText;
 
+
+/**
+            if(finalText.Equals("")){
+                text.gameObject.GetComponent<Renderer>().enabled = false;
+                GameObject plane = text.GetComponentInChildren<GameObject>();
+                plane.GetComponent<Renderer>().enabled = false;
+            }
+**/
 
         }
 
@@ -110,7 +112,7 @@ public class infoBatiment : MonoBehaviour
 public class Batiment{
 
     public int id;
-    public int numBat;
+    public string numBat;
     public string nomBat;
     public string desc;
     public List<string> listeSalle;
