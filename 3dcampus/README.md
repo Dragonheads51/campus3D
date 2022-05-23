@@ -8,4 +8,6 @@ Evolutions :    Le projet est dans un état où pour le faire évoluer les idée
                 -Faire une modélisation réaliste des bâtiment avec d'autre outil comme Blender pour les importer dans unity. Ce qui pourra même permettre de modéliser les intérieurs.
                 -Texturer toute ce qui ne l'est pas : chemin couvert, bâtiment ... 
                 Améliorer les détails essentiellement le bord des routes, les trotoires ainsi que les parkings. Exemple devant le bâtiment 17.  
-                
+
+
+Ressources :    Les liens suivant mènent à la bibliothèque d'assets de unity qui contiennent des textures ainsi que des modèles 3d préfabriqués utilisé sur le projet.

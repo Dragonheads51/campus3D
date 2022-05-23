@@ -12,7 +12,7 @@ public class infoBatiment : MonoBehaviour
     void Start()
     {        
 
-        string path = "Assets/infoBatiments1.json";
+        string path = Application.dataPath + "/" + "infoBatiments1.json";
         string jsonString = File.ReadAllText(path);
 
 
